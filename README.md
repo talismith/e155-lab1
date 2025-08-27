@@ -1,0 +1,1 @@
+This folder is for Lab 1 of MicroPs. This folder holds code to verify that FPGA and MCU are working properly.
