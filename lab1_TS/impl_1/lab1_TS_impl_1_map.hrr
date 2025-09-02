@@ -1,0 +1,20 @@
+---------------------------------------------------
+Report for cell top
+   Instance path: top
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	         45        100.0
+                               LUTGATE	         19        100.0
+                                LUTCCU	         26        100.0
+                                 IOBUF	         14        100.0
+                                PFUREG	         26        100.0
+SUB MODULES
+                                  cell	      count    LUT4 Usage(%)
+                          determineHex	          1        15.6
+---------------------------------------------------
+Report for cell determineHex
+   Instance path: top/hex
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          7        15.6
+                               LUTGATE	          7        36.8
